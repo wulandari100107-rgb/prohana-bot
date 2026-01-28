@@ -1,0 +1,46 @@
+[
+    {
+      "keywords": ["prohana", "brand", "produk", "jual"],
+        "answer":"Prohana adalah brand lokal yang menyediakan produk fashion berkualitas seperti sepatu, sandal, dan jaket dengan desain modern serta harga terjangkau."
+    },
+    {
+      "keywords": ["alamat", "lokasi", "toko", "prohana", "offline"],
+      "answer":  "Alamat toko Prohana berada di Jl. Masjid Nurul Huda, Jetis, Pepedan, Kec. Dukuhturi, Kabupaten Tegal, Jawa Tengah."
+    },
+    {
+      "keywords": [ "sepatu", "bahan sepatu", "material sepatu"],
+      "answer": "Sepatu Prohana dirancang agar nyaman digunakan untuk aktivitas sehari-hari.\nSepatu Prohana dibuat dari bahan pilihan seperti kulit sintetis berkualitas, kanvas premium, dan sol karet yang kuat.\nHarga sepatu mulai dari Rp. 150.000"
+    },
+    {
+      "keywords": [ "ukuran", "size"],
+      "answer": "Ukuran sepatu dan sandal Prohana tersedia mulai dari ukuran 37 hingga 44.\nuntuk ukuran jaket mulai dari M, L dan XL.\n bisa custom ukuran kak"
+    },
+    {
+      "keywords": ["sandal", "harian", "santai"],
+      "answer": "Sandal Prohana cocok digunakan untuk aktivitas harian karena ringan, nyaman, dan desainnya simpel. Sandal Prohana menggunakan bahan karet dan berkualitas yang lentur serta tahan lama.\nSandal mulai dari Rp. 45.000,"
+    },
+    {
+      "keywords": ["jaket", "dingin", "hangat"],
+      "answer": "Jaket Prohana dirancang untuk memberikan kehangatan dan kenyamanan saat digunakan di cuaca dingin.Bahan yang digunakan kulit sintesis premium.\nJaket mulai dari Rp. 200.000"
+    },
+    {
+      "keywords": ["retur", "tukar", "pengembalian"],
+      "answer": "Produk Prohana dapat ditukar atau dikembalikan sesuai dengan syarat dan ketentuan yang berlaku."
+    },
+    {
+        "keywords": ["buka jam berapa", "jam buka", "jam operasional", "toko buka", "prohana"],
+        "answer":"Toko Prohana buka setiap hari pukul 09.00 – 17.00 WIB."
+    },
+    {
+      "keywords": ["harga", "price", "berapa harga", "kisaran harga", "biaya"],
+      "answer":"Harga produk Prohana bervariasi tergantung jenis dan model."
+    },
+    {
+     "keywords": ["rekomendasi", "saran", "produk terbaik","tersedia", "pilihan"],
+     "answer": "Untuk rekomendasi produk Prohana:\n1. Sepatu Prohana, cocok untuk aktivitas sehari-hari dan gaya kasual,\n2. Sandal Prohana, direkomendasikan untuk penggunaan santai karena ringan dan nyaman,\n3. Jaket Prohana, cocok untuk cuaca dingin maupun gaya streetwear.\n Silakan sesuaikan pilihan dengan kebutuhan dan aktivitas Anda.\n"
+    },
+    {
+    "keywords": ["pesan", "order", "cara pesan", "cara order", "beli"],
+    "answer": "Produk Prohana dapat dipesan melalui WhatsApp 082135364688,\nMelalui Instagram @prohana.shoes,\n atau datang langsung ke toko.\n📝 Cara Pemesanan\n1️⃣ Tentukan jenis barangnya (sepatu,sendal,atau jaket)\n2️⃣ Tentukan budget\n3️⃣ Tentukan tanggal pengiriman\nAdmin kami akan membantu"
+    }
+]
